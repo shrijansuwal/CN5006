@@ -5,10 +5,10 @@ function EmployeeInfo(name,Salary)
     }
     console.log("This is my first program")
 
-var EmpName="Sujit"
+var EmpName="Shreejan"
 var EmpSalary= 1200
 // calling the function 
-EmployeeInfo("Sujit",1200)
+EmployeeInfo("shreejan",1200)
 
 //Second Exercise
 
@@ -28,7 +28,7 @@ console.log(student.dob )
 console.log(student.Studentgrade())
 console.log("grade is " +student.Studentgrade(80) )
 
-Person= new person("Astup","25", "dhojuastup@gmail.com")
+Person= new person("udip","25", "udip@gmail.com")
 console.log("using Person Module", Person.getPersonInfo())
 console.log("program ended")
 
